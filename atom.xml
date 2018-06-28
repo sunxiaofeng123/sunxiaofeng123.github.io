@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>孙晓峰的技术博客</title>
+  <title>晓峰博客</title>
   
   <subtitle>改变是一个循序渐进的过程。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sunxiaofeng123.github.io/"/>
-  <updated>2018-06-28T13:58:18.000Z</updated>
+  <updated>2018-06-28T14:14:29.000Z</updated>
   <id>https://sunxiaofeng123.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://sunxiaofeng123.github.io/2018/06/28/hello-myblog/"/>
     <id>https://sunxiaofeng123.github.io/2018/06/28/hello-myblog/</id>
     <published>2018-06-28T01:33:16.000Z</published>
-    <updated>2018-06-28T13:58:18.000Z</updated>
+    <updated>2018-06-28T14:14:29.000Z</updated>
     
-    <content type="html"><![CDATA[<p>一直想搭建一个属于自己的博客，一直没有时间，后来听朋友说使用github+hexo搭建一个静态博客，效果很好，正好自己也一直在用github。所以昨天想着还开是搭建，现在只是把博客的架构基本算是搭建完成，以后每天慢慢完善，搭建博客也将自己新学的一些技术，也能整理出来，共同学习进步，也提升一下自己写作能力。</p>]]></content>
+    <content type="html"><![CDATA[<p>一直想搭建一个属于自己的博客，一直没有时间，后来听朋友说使用github+hexo搭建一个静态博客，效果很好，正好自己也一直在用github。昨天正式开始搭建，现在只是把博客的基本架构搭建完成，以后每天慢慢完善，顺便写一些学习到技术的心得，共同学习进步，也提升一下自己写作能力。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;一直想搭建一个属于自己的博客，一直没有时间，后来听朋友说使用github+hexo搭建一个静态博客，效果很好，正好自己也一直在用github。所以昨天想着还开是搭建，现在只是把博客的架构基本算是搭建完成，以后每天慢慢完善，搭建博客也将自己新学的一些技术，也能整理出来，共同学
+        &lt;p&gt;一直想搭建一个属于自己的博客，一直没有时间，后来听朋友说使用github+hexo搭建一个静态博客，效果很好，正好自己也一直在用github。昨天正式开始搭建，现在只是把博客的基本架构搭建完成，以后每天慢慢完善，顺便写一些学习到技术的心得，共同学习进步，也提升一下自己写作能
       
     
     </summary>
