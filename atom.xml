@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sunxiaofeng123.github.io/"/>
-  <updated>2018-06-28T01:35:13.000Z</updated>
+  <updated>2018-06-28T13:58:18.000Z</updated>
   <id>https://sunxiaofeng123.github.io/</id>
   
   <author>
@@ -17,26 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello-myblog</title>
+    <title>github+hexo搭建静态博客心得</title>
     <link href="https://sunxiaofeng123.github.io/2018/06/28/hello-myblog/"/>
     <id>https://sunxiaofeng123.github.io/2018/06/28/hello-myblog/</id>
     <published>2018-06-28T01:33:16.000Z</published>
-    <updated>2018-06-28T01:35:13.000Z</updated>
+    <updated>2018-06-28T13:58:18.000Z</updated>
     
-    <content type="html"><![CDATA[<p>这是我的第一个博客，你好，我的博客</p>]]></content>
+    <content type="html"><![CDATA[<p>一直想搭建一个属于自己的博客，一直没有时间，后来听朋友说使用github+hexo搭建一个静态博客，效果很好，正好自己也一直在用github。所以昨天想着还开是搭建，现在只是把博客的架构基本算是搭建完成，以后每天慢慢完善，搭建博客也将自己新学的一些技术，也能整理出来，共同学习进步，也提升一下自己写作能力。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这是我的第一个博客，你好，我的博客&lt;/p&gt;
-
+        &lt;p&gt;一直想搭建一个属于自己的博客，一直没有时间，后来听朋友说使用github+hexo搭建一个静态博客，效果很好，正好自己也一直在用github。所以昨天想着还开是搭建，现在只是把博客的架构基本算是搭建完成，以后每天慢慢完善，搭建博客也将自己新学的一些技术，也能整理出来，共同学
       
     
     </summary>
     
     
-      <category term="myblog" scheme="https://sunxiaofeng123.github.io/tags/myblog/"/>
+      <category term="博客" scheme="https://sunxiaofeng123.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
