@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunxiaofeng123.github.io/2018/06/27/hello-world/</loc>
+    
+    <lastmod>2018-07-01T08:13:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunxiaofeng123.github.io/2018/06/28/hello-myblog/</loc>
     
-    <lastmod>2018-06-28T14:14:29.000Z</lastmod>
+    <lastmod>2018-07-01T07:39:27.000Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>https://sunxiaofeng123.github.io/about/index.html</loc>
     
     <lastmod>2018-06-28T11:51:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunxiaofeng123.github.io/2018/06/27/hello-world/</loc>
-    
-    <lastmod>2018-06-27T15:12:42.000Z</lastmod>
     
   </url>
   
