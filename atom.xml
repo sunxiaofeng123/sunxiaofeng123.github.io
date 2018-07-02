@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>晓峰博客</title>
+  <title>雁过留声</title>
   
-  <subtitle>改变是一个循序渐进的过程。</subtitle>
+  <subtitle>改变，是一个循序渐进的过程。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sunxiaofeng123.github.io/"/>
