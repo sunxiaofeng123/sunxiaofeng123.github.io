@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunxiaofeng123.github.io/2018/07/01/hello-world/</loc>
+    
+    <lastmod>2018-07-17T14:52:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunxiaofeng123.github.io/2018/07/17/laravel-seed-data/</loc>
+    
+    <lastmod>2018-07-17T14:52:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunxiaofeng123.github.io/2018/07/09/linux-php-mongodb/</loc>
     
     <lastmod>2018-07-09T13:11:40.000Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>https://sunxiaofeng123.github.io/2018/07/07/laravel-1/</loc>
     
     <lastmod>2018-07-07T14:23:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunxiaofeng123.github.io/2018/07/01/hello-world/</loc>
-    
-    <lastmod>2018-07-02T06:53:06.000Z</lastmod>
     
   </url>
   
